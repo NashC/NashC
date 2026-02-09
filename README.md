@@ -4,10 +4,10 @@ Data scientist, engineer, and builder with 15+ years of experience across data s
 
 ## What I'm working on
 
-- **Sumrise** — Full-stack personal finance app (TypeScript, React, Express) for portfolio optimization, rebalancing, and net worth tracking
-- **[LLM Financial Forecasting](https://github.com/NashC/llm_forecasting_model)** — Conversational model builder: describe a forecast in plain English, get executable Python code and interactive dashboards via GPT-4
-- **[Portfolio Analytics](https://github.com/NashC/portfolio_analytics)** — Multi-source transaction ingestion, FIFO/average cost basis tracking, and tax reporting across brokerages and crypto exchanges
-- **[Asset Price Database](https://github.com/NashC/asset-price-database)** — PostgreSQL data warehouse with 10,900+ symbols, multi-stage ETL pipeline, quality scoring, and REST API
+- **Sumrise** — Personal finance app for portfolio optimization and net worth tracking
+- **[LLM Financial Forecasting](https://github.com/NashC/llm_forecasting_model)** — Describe a forecast in plain English, get executable Python code and dashboards
+- **[Portfolio Analytics](https://github.com/NashC/portfolio_analytics)** — Cost basis tracking and tax reporting across brokerages and crypto exchanges
+- **[Asset Price Database](https://github.com/NashC/asset-price-database)** — PostgreSQL warehouse with 10,900+ symbols and multi-stage ETL pipeline
 
 ## Links
 
