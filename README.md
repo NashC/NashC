@@ -1,6 +1,6 @@
 # Nash Collins
 
-Senior data scientist and engineer with 15+ years of experience spanning investment banking, FP&A, revenue analytics, and B2B SaaS. Currently building at the intersection of LLMs and financial systems.
+Software engineer with 15+ years of experience across data science, full-stack development, and financial systems. Background spans investment banking, FP&A, revenue analytics, and B2B SaaS. Currently building at the intersection of LLMs and financial data infrastructure.
 
 ## What I'm working on
 
